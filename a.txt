@@ -1,3 +1,9 @@
 6666
 Creating a new branch is quick.
+<<<<<<< HEAD
 777
+=======
+5555_
+>>>>>>> feature1
+
+8888
