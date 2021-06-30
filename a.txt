@@ -1,4 +1,4 @@
-6666
+6664446
 Creating a new branch is quick.
 <<<<<<< HEAD
 777
@@ -6,7 +6,7 @@ Creating a new branch is quick.
 5555_
 >>>>>>> feature1
 
-8888
+8888wuhwwowjowpw
 
 9999
 0000
